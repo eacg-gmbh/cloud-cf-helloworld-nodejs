@@ -1,0 +1,5 @@
+# for further information see https://www.project-piper.io/configuration/
+general:
+steps:
+  mtaBuild:
+    buildTarget: 'CF'
